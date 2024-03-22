@@ -1,0 +1,14 @@
+Scene: A modern, sleek digital workspace illuminated by the soft glow of computer screens. A user is seen dragging a data file into a streamlined, attractive application window labeled "Datalace."
+Voiceover: Chào mừng đến với Datalace, dự án tiên phong mang đến giải pháp độc đáo cho việc biến dữ liệu thô thành thông tin trực quan một cách nhanh chóng và dễ dàng.
+
+Scene: The screen transitions to a simple, intuitive user interface of the Datalace application where a user is selecting options like "pie chart," "bar graph," and "line chart" from a sleek, modern dropdown menu.
+Voiceover: Datalace được thiết kế với một mục tiêu rõ ràng: Tạo ra một ứng dụng cho phép người dùng nhập file dữ liệu và chỉ cần vài cú click, ứng dụng sẽ tự động tạo ra những biểu đồ đẹp mắt, đáp ứng mọi yêu cầu từ người dùng.
+
+Scene: A dynamic animation showcasing the seamless process of uploading a data file, selecting the desired type of chart, and pressing a "Generate" button. Instantly, a beautiful, complex graph animates into existence, full of colors and labels.
+Voiceover: Không cần đến kỹ năng lập trình phức tạp hay hiểu biết sâu sắc về thiết kế đồ họa, Datalace lo liệu tất cả. Từ dữ liệu nhập vào đến biểu đồ đầu ra, mỗi khía cạnh đều được tối ưu hóa để tạo ra trải nghiệm người dùng tuyệt vời nhất.
+
+Scene: A collage of various charts and graphs—pie charts, line graphs, bar charts, and scatter plots—all showcasing different data sets. Each graph is more visually appealing than the last, demonstrating the flexibility and power of Datalace.
+Voiceover: Dù là một báo cáo tài chính, phân tích thị trường, khảo sát ý kiến, hay bất kỳ loại dữ liệu nào, Datalace có thể biến chúng thành đồ thị trực quan, dễ hiểu và, quan trọng nhất, đẹp mắt.
+
+Scene: A scene showing a group of people from diverse professions—business analysts, scientists, students, and journalists— all using Datalace on various devices, expressing satisfaction and admiration for its capabilities.
+Voiceover: Datalace không chỉ là một công cụ cho chuyên gia dữ liệu; nó mở ra cánh cửa mới cho mọi người, ở mọi lĩnh vực và mọi cấp độ kỹ năng, để khám phá và chia sẻ thông tin qua những đồ thị đẹp mắt. Đây là bước đột phá trong việc truyền đạt dữ liệu, làm cho thông tin trở nên sống động và dễ tiếp cận hơn bao giờ hết.

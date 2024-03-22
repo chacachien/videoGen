@@ -1,0 +1,5 @@
+Giới thiệu Datalace - tương lai mới của việc trình bày dữ liệu. Một ứng dụng được thiết kế với mục tiêu không chỉ là giúp người dùng nhập dữ liệu một cách dễ dàng, mà còn biến những dữ liệu đó thành những đồ thị sinh động, hấp dẫn.
+Với giao diện thân thiện, Datalace cho phép người dùng dễ dàng tải lên các tệp dữ liệu của mình và lựa chọn kiểu đồ thị mà họ muốn - từ biểu đồ cột, đường, pie, đến những biểu đồ phức tạp hơn.
+Công nghệ AI tiên tiến của Datalace không chỉ giúp tự động phân tích dữ liệu, mà còn đề xuất những kiểu đồ thị tối ưu, giúp truyền đạt thông điệp một cách rõ ràng và đẹp mắt nhất.
+Mục tiêu của Datalace là tạo ra những đồ thị không chỉ chính xác về mặt thông tin, mà còn cuốn hút và dễ hiểu đối với mọi người. Dù bạn cần đồ thị cho bài thuyết trình, báo cáo hay chỉ đơn giản là muốn hiểu rõ hơn về dữ liệu của mình, Datalace sẽ là công cụ đáng tin cậy.
+Đằng sau Datalace là đội ngũ các nhà phát triển, nhà thiết kế, và chuyên gia dữ liệu tận tâm, luôn không ngừng nỗ lực để cung cấp sản phẩm tốt nhất cho người dùng. Hãy cùng chào đón và trải nghiệm ngay Datalace - nơi dữ liệu được biến hóa, thông điệp được kể lại.

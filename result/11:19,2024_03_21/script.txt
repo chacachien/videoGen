@@ -1,0 +1,17 @@
+Scene: Mở đầu bằng hình ảnh của một ứng dụng máy tính hiện đại với màn hình chính hiển thị "Chào mừng đến với Datalace" được viết bằng các chữ cái sáng bóng.
+Voiceover: Giới thiệu Datalace, dự án mang sứ mệnh biến những file dữ liệu của bạn thành những đồ thị trực quan, tuyệt đẹp mà không mất nhiều thời gian và công sức. 
+
+Scene: Hiển thị một chuỗi cảnh quay người dùng đang lựa chọn file dữ liệu từ máy tính của họ và kéo thả vào một giao diện ứng dụng thanh lịch và dễ sử dụng.
+Voiceover: Với Datalace, việc nhập dữ liệu trở nên dễ dàng và thuận tiện. Chỉ cần lựa chọn file dữ liệu của bạn, kéo và thả vào ứng dụng, mọi thứ sẽ được tự động hóa.
+
+Scene: Một loạt các tùy chọn để tạo đồ thị hiện lên, có các tùy chỉnh về loại đồ thị như đồ thị cột, đường, pie, v.v. và các tùy chỉnh màu sắc.
+Voiceover: Không chỉ dừng lại ở việc tạo ra đồ thị, Datalace còn cho phép bạn tùy chỉnh chi tiết - từ loại đồ thị bạn muốn hiển thị, đến màu sắc và cách dữ liệu được trình bày.
+
+Scene: Hình ảnh đồ thị được tạo ra một cách mượt mà trên màn hình, đồng thời có sự so sánh trước và sau khi áp dụng các bộ lọc và tùy chỉnh màu sắc của Datalace.
+Voiceover: Nhanh chóng từ những file dữ liệu thô, Datalace biến chúng thành những tác phẩm nghệ thuật. Mỗi đồ thị không chỉ truyền đạt thông tin một cách rõ ràng mà còn có tính thẩm mỹ cao.
+
+Scene: Điểm nhấn là một người dùng hài lòng đang chia sẻ đồ thị mà họ vừa tạo ra qua Datalace trên mạng xã hội, nhận được nhiều phản hồi tích cực và lượt like.
+Voiceover: Hãy chia sẻ công việc của bạn với thế giới. Datalace không chỉ giúp bạn tạo ra những đồ thị đẹp mắt mà còn giúp công việc của bạn được ghi nhận và đánh giá cao bởi mọi người.
+
+Scene: Kết thúc với logo của Datalace hiện lên màn hình, nền là hình ảnh của một bộ đồ thị đẹp mắt và độc đáo được tạo ra từ dự án.
+Voiceover: Tham gia cùng chúng tôi hôm nay với Datalace, và biến dữ liệu của bạn thành nghệ thuật.

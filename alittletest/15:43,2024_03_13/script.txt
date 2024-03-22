@@ -1,0 +1,14 @@
+Scene: Một không gian làm việc tương lai với các màn hình hiển thị dữ liệu số hóa và biểu đồ màu sắc đang được tạo ra tự động. Một dự án có tên "Datalace" xuất hiện lớn trên màn hình chính.
+Voiceover: Chào mừng bạn đến với Datalace – một sáng kiến mới mẻ với mục tiêu biến quá trình phân tích và trình bày dữ liệu thành một trải nghiệm thú vị và đơn giản. "
+
+Scene: Một ứng dụng đang mở trên một máy tính bảng hiện đại, cùng với một tay đang kéo thả file dữ liệu vào ứng dụng.
+Voiceover: Với Datalace, chỉ cần vài bước đơn giản - nhập file dữ liệu của bạn và đặt yêu cầu vẽ đồ thị, ứng dụng sẽ tự động tạo ra các biểu đồ ấn tượng và phù hợp với nhu cầu của bạn. "
+
+Scene: Nhiều loại biểu đồ khác nhau, từ biểu đồ cột, biểu đồ dạng líne, đến biểu đồ tán xạ, đang được hiển thị một cách đẹp mắt và màu sắc sống động.
+Voiceover: Không gian trực quan hóa dữ liệu của Datalace là một sân chơi mà ở đó bạn có thể khám phá vô số loại đồ thị - mỗi loại đều được thiết kế để nâng cao trải nghiệm tổng quan và hiểu biết của người dùng về dữ liệu của họ. "
+
+Scene: Một người dùng hài lòng đang nhìn vào màn hình máy tính, nơi đồ thị do Datalace tạo ra lấp lánh dưới ánh đèn của văn phòng hiện đại.
+Voiceover: Datalace không chỉ là một công cụ; nó là viên gạch đầu tiên trong việc xây dựng một cách tiếp cận mới mẻ cho việc trực quan hóa và phân tích dữ liệu. Mục tiêu của chúng tôi là giúp bạn không chỉ xem mà còn hiểu dữ liệu một cách sâu sắc nhất có thể. "
+
+Scene: Logo của Datalace được chiếu sáng trên một màn hình, với slogan "Biến dữ liệu thành kỳ diệu" phía dưới.
+Voiceover: Hãy tham gia cùng Datalace và bắt đầu cuộc hành trình biến dữ liệu thô của bạn thành những tác phẩm tự sự thông qua đồ thị. Cùng chúng tôi tạo ra kỳ diệu từ mỗi con số. "

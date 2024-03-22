@@ -1,0 +1,17 @@
+Scene: Một bàn làm việc sạch sẽ, trên đó có một laptop mở ra trang chủ của ứng dụng Datalace, với hình nền là các đồ thị sặc sỡ và một loạt các dữ liệu đang được phân tích.
+Voiceover: Giới thiệu Datalace - Một dự án tiên phong được thiết kế để biến việc tạo ra đồ thị từ dữ liệu thô thành một quá trình đơn giản và thú vị. "
+
+Scene: Một giao diện người dùng của Datalace đang hiển thị màn hình cho phép người dùng tải lên file dữ liệu của họ với các nút chức năng rõ ràng và hướng dẫn từng bước được minh họa mỹ miều.
+Voiceover: Mọi người có thể dễ dàng nhập file dữ liệu của mình lên Datalace. Chỉ cần vài cú nhấp chuột, bạn đã sẵn sàng để bắt đầu quá trình biến dữ liệu thô của mình thành những tác phẩm đồ thị nghệ thuật. "
+
+Scene: Hiển thị một loạt các tùy chọn đồ thị - từ biểu đồ cột, biểu đồ đường, đến các biểu đồ phức tạp hơn như biểu đồ Sankey hoặc Heatmap - với các mẫu màu sắc và thiết kế đẹp mắt.
+Voiceover: Datalace cung cấp một thư viện đồ thị đa dạng, cho phép người dùng lựa chọn chính xác loại đồ thị họ muốn vẽ, kèm theo khả năng tùy chỉnh màu sắc, phong cách, và nhiều yếu tố khác để phù hợp hoàn hảo với yêu cầu của họ. "
+
+Scene: Một điểm nhấn đặc biệt về tính năng AI của Datalace, nơi AI đề xuất loại đồ thị phù hợp nhất dựa trên loại dữ liệu mà người dùng nhập vào.
+Voiceover: Nhờ vào sức mạnh của trí tuệ nhân tạo, Datalace có khả năng phân tích dữ liệu của bạn và gợi ý loại đồ thị tốt nhất để trực quan hóa chúng. Điều này đảm bảo rằng mỗi đồ thị không chỉ đẹp về mặt thẩm mỹ mà còn truyền đạt thông tin một cách chính xác và dễ hiểu. "
+
+Scene: Một đoạn video ngắn về một nhóm người đang sử dụng Datalace trong một dự án nhóm, với màn hình chiếu lên các đồ thị do Datalace tạo ra đang được thảo luận và tinh chỉnh.
+Voiceover: Datalace không chỉ là công cụ dành cho cá nhân. Nó còn hỗ trợ làm việc nhóm, cho phép các tổ chức, doanh nghiệp và trường học tận dụng công nghệ để nâng cao trải nghiệm học tập và làm việc nhóm thông qua việc trực quan hóa dữ liệu. "
+
+Scene: Kết thúc với logo Datalace đang sáng lên và màn hình đen bao quanh, tạo ra một không gian trang trọng và chuyên nghiệp.
+Voiceover: Datalace - Biến dữ liệu thành đồ thị đẹp chưa bao giờ dễ dàng đến thế. Bắt đầu khám phá ngay hôm nay và khơi dậy sức mạnh của dữ liệu theo cách hoàn toàn mới.

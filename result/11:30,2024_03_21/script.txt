@@ -1,0 +1,17 @@
+Scene: Một không gian làm việc sáng tạo với màn hình hiển thị một dashboard đầy màu sắc, tập trung vào một ứng dụng trên màn hình với tên "Datalace". 
+Voiceover: Giới thiệu Datalace, một dự án đầy tham vọng với mục tiêu chuyển đổi cách mà chúng ta tạo và trải nghiệm đồ thị dữ liệu. 
+
+Scene: Một người dùng tươi cười đang nhập một file dữ liệu vào máy tính, màn hình hiển thị các loại files như CSV, Excel, và json được chấp nhận.
+Voiceover: Với Datalace, việc nhập dữ liệu không còn là thách thức. Từ các file dữ liệu phổ biến như CSV đến các định dạng khác như Excel và json, tất cả đều dễ dàng được hỗ trợ.
+
+Scene: Hiện ra một giao diện dễ sử dụng với các trường để người dùng nhập yêu cầu vẽ đồ thị, như loại đồ thị, màu sắc, và thông tin khác.
+Voiceover: Datalace không chỉ là một ứng dụng vẽ đồ thị. Nó là một trợ lý đắc lực, giúp bạn xác định chính xác loại đồ thị bạn muốn tạo, từ đồ thị biểu diễn, đến đồ thị tần suất và nhiều hơn nữa.
+
+Scene: Màn hình hiển thị quá trình chuyển đổi dữ liệu thành một đồ thị đẹp mắt, với quá trình này diễn ra một cách nhanh chóng và mượt mà.
+Voiceover: Không chỉ đơn giản là vẽ đồ thị, Datalace tối ưu hóa quá trình này để cho ra những kết quả đẹp mắt, chính xác, theo đúng yêu cầu của bạn, chỉ trong vài giây.
+
+Scene: Màn hình chia sẻ một số ví dụ về đồ thị được tạo ra bởi Datalace, bao gồm biểu đồ cột, biểu đồ đường, và biểu đồ tròn, tất cả đều rực rỡ và trực quan.
+Voiceover: Từ đồ thị cơ bản đến phức tạp, Datalace mang lại một thế giới mới về việc trình bày dữ liệu. Giờ đây, mỗi lần trải nghiệm dữ liệu có thể trở thành một câu chuyện đầy màu sắc và ý nghĩa.
+
+Scene: Cuối cùng, một người dùng hài lòng nhìn chăm chăm vào một đồ thị đẹp mắt vừa được tạo ra, ánh mắt tràn đầy sự ngạc nhiên và hài lòng.
+Voiceover: Datalace không chỉ đơn thuần là một công cụ; đó là cánh cửa mở ra những khả năng mới trong việc kể chuyện từ dữ liệu của bạn. Hãy bắt đầu hành trình biến dữ liệu thành nghệ thuật với Datalace ngay hôm nay.

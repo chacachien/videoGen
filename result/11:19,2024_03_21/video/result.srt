@@ -1,0 +1,115 @@
+1
+00:00:00,000 --> 00:00:03,180
+Giới thiệu DataLase Dự án mang sư
+
+2
+00:00:03,180 --> 00:00:05,000
+mệnh biến những file dữ liệu của
+
+3
+00:00:05,000 --> 00:00:06,719
+bạn thành những đồ thị trực quan
+
+4
+00:00:06,719 --> 00:00:08,439
+tuyệt đẹp mà không mất nhiều thời
+
+5
+00:00:08,439 --> 00:00:11,260
+gian và công sức Với DataLase việc
+
+6
+00:00:11,260 --> 00:00:12,520
+nhập dữ liệu trở nên dễ dàng
+
+7
+00:00:12,520 --> 00:00:14,579
+và thuận tiện Chỉ cần lựa chọn
+
+8
+00:00:14,579 --> 00:00:16,200
+file dữ liệu của bạn kéo và
+
+9
+00:00:16,200 --> 00:00:17,959
+thả vào ứng dụng mọi thứ sẽ
+
+10
+00:00:17,959 --> 00:00:19,479
+được tự động hóa Không chỉ dừng
+
+11
+00:00:19,479 --> 00:00:21,600
+lại ở việc tạo ra đồ thị
+
+12
+00:00:21,600 --> 00:00:23,399
+DataLase còn cho phép bạn tùy chỉnh
+
+13
+00:00:23,399 --> 00:00:25,360
+chi tiết từ loại đồ thị bạn
+
+14
+00:00:25,360 --> 00:00:28,079
+muốn hiển thị đến màu sắc và
+
+15
+00:00:28,079 --> 00:00:29,979
+cách dữ liệu được trình bày Nhanh
+
+16
+00:00:29,979 --> 00:00:32,819
+chóng từ những file dữ liệu thô
+
+17
+00:00:32,819 --> 00:00:34,580
+DataLase biến chúng thành những tác phẩm
+
+18
+00:00:34,580 --> 00:00:37,580
+nghệ thuật Mỗi đồ thị không chỉ
+
+19
+00:00:37,580 --> 00:00:38,959
+truyền đạt thông tin một cách rõ
+
+20
+00:00:39,479 --> 00:00:40,900
+ràng mà còn có tính thẩm mỹ
+
+21
+00:00:41,259 --> 00:00:42,279
+cao Hãy chia sẻ công việc của
+
+22
+00:00:42,279 --> 00:00:45,540
+bạn với thế giới DataLase không chỉ
+
+23
+00:00:45,540 --> 00:00:46,959
+giúp bạn tạo ra những đồ thị
+
+24
+00:00:46,959 --> 00:00:48,740
+đẹp mắt mà còn giúp công việc
+
+25
+00:00:48,740 --> 00:00:50,520
+của bạn được ghi nhận và đánh
+
+26
+00:00:50,520 --> 00:00:52,279
+giá cao bởi mọi người Tham gia
+
+27
+00:00:52,279 --> 00:00:54,459
+cùng chúng tôi hôm nay với DataLase
+
+28
+00:00:54,459 --> 00:00:55,779
+và biến dữ liệu của bạn thành
+
+29
+00:00:55,779 --> 00:00:55,979
+nghệ thuật

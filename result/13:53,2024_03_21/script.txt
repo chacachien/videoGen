@@ -1,0 +1,14 @@
+Scene: Một không gian làm việc tràn ngập ánh sáng, với màn hình hiển thị rõ ràng và sáng sủa một ứng dụng giao diện đẹp mắt có tên là "Datalace".
+Voiceover: Giới thiệu Datalace - tương lai mới của việc trình bày dữ liệu. Một ứng dụng được thiết kế với mục tiêu không chỉ là giúp người dùng nhập dữ liệu một cách dễ dàng, mà còn biến những dữ liệu đó thành những đồ thị sinh động, hấp dẫn. 
+
+Scene: Một chuỗi hình ảnh minh họa việc kéo và thả các tệp dữ liệu vào giao diện ứng dụng, tiếp sau đó là các tuỳ chọn đề xuất về kiểu đồ thị.
+Voiceover: Với giao diện thân thiện, Datalace cho phép người dùng dễ dàng tải lên các tệp dữ liệu của mình và lựa chọn kiểu đồ thị mà họ muốn - từ biểu đồ cột, đường, pie, đến những biểu đồ phức tạp hơn. 
+
+Scene: Màn hình hiển thị quy trình tự động của Datalace trong việc phân tích dữ liệu và gợi ý những biểu đồ phù hợp nhất với dữ liệu đó.
+Voiceover: Công nghệ AI tiên tiến của Datalace không chỉ giúp tự động phân tích dữ liệu, mà còn đề xuất những kiểu đồ thị tối ưu, giúp truyền đạt thông điệp một cách rõ ràng và đẹp mắt nhất.
+
+Scene: Các đồ thị được tạo từ Datalace với màu sắc, thiết kế đẹp mắt và chuyên nghiệp, hiển thị trên màn hình máy tính và thiết bị di động.
+Voiceover: Mục tiêu của Datalace là tạo ra những đồ thị không chỉ chính xác về mặt thông tin, mà còn cuốn hút và dễ hiểu đối với mọi người. Dù bạn cần đồ thị cho bài thuyết trình, báo cáo hay chỉ đơn giản là muốn hiểu rõ hơn về dữ liệu của mình, Datalace sẽ là công cụ đáng tin cậy.
+
+Scene: Hình ảnh nhóm phát triển Datalace đang làm việc nghiêm túc, tập trung trong một không gian mở, mỗi người đều tập trung vào màn hình của mình, lập trình và thiết kế.
+Voiceover: Đằng sau Datalace là đội ngũ các nhà phát triển, nhà thiết kế, và chuyên gia dữ liệu tận tâm, luôn không ngừng nỗ lực để cung cấp sản phẩm tốt nhất cho người dùng. Hãy cùng chào đón và trải nghiệm ngay Datalace - nơi dữ liệu được biến hóa, thông điệp được kể lại.

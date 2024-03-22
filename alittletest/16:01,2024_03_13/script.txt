@@ -1,0 +1,14 @@
+Scene: Một dải dữ liệu sống động chảy qua màn hình, biến hóa thành các dạng biểu đồ khác nhau—từ biểu đồ cột, biểu đồ tròn, đến biểu đồ tương tác.
+Voiceover: Giới thiệu Datalace, dự án tiên phong trong việc đơn giản hóa quá trình biểu diễn dữ liệu. Được sinh ra từ mong muốn giúp người dùng dễ dàng biến các file dữ liệu thành những đồ thị đẹp mắt và thông tin.
+
+Scene: Một loạt giao diện người dùng thân thiện và trực quan của ứng dụng Datalace, với các tính năng như kéo và thả file, lựa chọn loại đồ thị, và tùy chỉnh thiết kế.
+Voiceover: Datalace được thiết kế để mọi người, dù không phải là chuyên gia về dữ liệu, cũng có thể tạo ra các đồ thị hấp dẫn và chính xác. Từ các nhà nghiên cứu, doanh nhân, đến học sinh, ai cũng có thể sử dụng Datalace để làm cho dữ liệu của mình sống động.
+
+Scene: Một cảnh quay ấn tượng mô phỏng việc tải lên một file dữ liệu vào Datalace, và ngay lập tức, các loại biểu đồ đa dạng được tạo ra, mỗi loại mở ra một cái nhìn sâu sắc khác nhau về dữ liệu.
+Voiceover: Dựa trên những yêu cầu của bạn, Datalace sử dụng trí tuệ nhân tạo để tự động chọn lựa và tạo ra những đồ thị phù hợp nhất. Điều này không chỉ tiết kiệm thời gian cho người dùng, mà còn mở ra những cách thức mới mẻ để hiểu và trình bày dữ liệu.
+
+Scene: Một dãy biểu đồ được tạo ra từ Datalace được trình bày tại một cuộc họp, khiến mọi người xung quanh bàn tròn đều gật gù khen ngợi.
+Voiceover: Với Datalace, bất kỳ ai cũng có thể tạo ra những trải nghiệm dữ liệu thuyết phục và chuyên nghiệp. Hãy tưởng tượng khả năng thuyết trình của bạn được nâng tầm, khi mọi số liệu, kết quả nghiên cứu, hay dữ liệu kinh doanh, đều được thể hiện qua những đồ thị đẹp đẽ và đầy màu sắc.
+
+Scene: Màn kết thúc với logo Datalace sáng rực, biểu tượng của sự đổi mới trong việc truyền đạt và trình bày dữ liệu.
+Voiceover: Datalace - biến dữ liệu thành câu chuyện, mở ra một thế giới mới mẻ trong việc chia sẻ và phân tích thông tin. Đằng sau mỗi file dữ liệu là một câu chuyện đang chờ được kể. Let's bring your data to life.

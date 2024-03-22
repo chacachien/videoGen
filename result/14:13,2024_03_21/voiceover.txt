@@ -1,0 +1,6 @@
+Giới thiệu Datalace - Một dự án tiên phong được thiết kế để biến việc tạo ra đồ thị từ dữ liệu thô thành một quá trình đơn giản và thú vị. "
+Mọi người có thể dễ dàng nhập file dữ liệu của mình lên Datalace. Chỉ cần vài cú nhấp chuột, bạn đã sẵn sàng để bắt đầu quá trình biến dữ liệu thô của mình thành những tác phẩm đồ thị nghệ thuật. "
+Datalace cung cấp một thư viện đồ thị đa dạng, cho phép người dùng lựa chọn chính xác loại đồ thị họ muốn vẽ, kèm theo khả năng tùy chỉnh màu sắc, phong cách, và nhiều yếu tố khác để phù hợp hoàn hảo với yêu cầu của họ. "
+Nhờ vào sức mạnh của trí tuệ nhân tạo, Datalace có khả năng phân tích dữ liệu của bạn và gợi ý loại đồ thị tốt nhất để trực quan hóa chúng. Điều này đảm bảo rằng mỗi đồ thị không chỉ đẹp về mặt thẩm mỹ mà còn truyền đạt thông tin một cách chính xác và dễ hiểu. "
+Datalace không chỉ là công cụ dành cho cá nhân. Nó còn hỗ trợ làm việc nhóm, cho phép các tổ chức, doanh nghiệp và trường học tận dụng công nghệ để nâng cao trải nghiệm học tập và làm việc nhóm thông qua việc trực quan hóa dữ liệu. "
+Datalace - Biến dữ liệu thành đồ thị đẹp chưa bao giờ dễ dàng đến thế. Bắt đầu khám phá ngay hôm nay và khơi dậy sức mạnh của dữ liệu theo cách hoàn toàn mới.

@@ -1,0 +1,14 @@
+Scene: Một không gian làm việc hiện đại với màn hình lớn hiển thị logo "Datalace" rực rỡ, bên cạnh là các nhà phát triển đang tích cực làm việc trên máy tính của họ.
+Voiceover: Giới thiệu Datalace – dự án tiên phong trong việc chuyển đổi cách chúng ta làm việc với dữ liệu. Mục tiêu của chúng tôi không chỉ là tạo ra một ứng dụng, mà là tạo ra một cách mới để tương tác và hiển thị dữ liệu một cách ý nghĩa.
+
+Scene: Một interface ứng dụng đơn giản và trực quan với nút "Upload" lớn ở giữa. Một tay cầm chuột kéo và thả file dữ liệu vào nút đó.
+Voiceover: Với Datalace, bất kỳ ai cũng có thể dễ dàng nhập file dữ liệu của mình. Dù bạn là một nhà nghiên cứu, một sinh viên hay chỉ đơn giản là một người yêu thích dữ liệu, ứng dụng của chúng tôi được thiết kế để phục vụ mọi nhu cầu của bạn.
+
+Scene: Một giao diện lựa chọn, nơi người dùng có thể chọn từ các loại đồ thị khác nhau như đường, cột, tròn, và heatmap, mỗi loại đồ thị được minh họa bằng một hình ảnh đẹp mắt và sinh động.
+Voiceover: Sau khi tải dữ liệu của mình, bạn có thể yêu cầu Datalace tạo ra những đồ thị đẹp mắt. Chúng tôi cung cấp một loạt các loại đồ thị để bạn lựa chọn, đảm bảo rằng bạn sẽ tìm thấy một lựa chọn phù hợp với mục đích của mình.
+
+Scene: Một quá trình biến hóa ấn tượng, nơi dữ liệu thô ban đầu được chuyển đổi thành một bảng biểu màu sắc, rực rỡ, và đầy thông tin, với các chú giải chi tiết và mượt mà chuyển động qua màn hình.
+Voiceover: Điểm nổi bật của Datalace là khả năng biến dữ liệu thô của bạn thành tác phẩm nghệ thuật. Không chỉ dừng lại ở việc tạo đồ thị, chúng tôi còn giúp bạn truyền tải câu chuyện đằng sau dữ liệu đó một cách sinh động và hấp dẫn nhất.
+
+Scene: Một cuộc họp trực tuyến nơi nhóm Datalace đang thảo luận và chia sẻ màn hình với những phản hồi tích cực từ người dùng, cùng các đánh giá cao và yêu cầu tính năng mới.
+Voiceover: Sự hài lòng của người dùng là ưu tiên hàng đầu của chúng tôi. Datalace không ngừng lắng nghe và cải tiến, đảm bảo rằng ứng dụng sẽ luôn đáp ứng được mong muốn và nhu cầu của bạn.
