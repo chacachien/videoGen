@@ -2,6 +2,7 @@
  # Video Generation Project
 
 This project allows you to create short videos based on a given topic.
+Version 2 (improve transform image and real clip) can be found at: [Colab notebook](https://colab.research.google.com/drive/1-bNtaCiO2tTHnojsDI30zl-LX_jbtFE1?usp=sharing). The reason why version 2 is in this GitHub is that my laptop cannot afford the Nvidia-smi utility, which is required to install xformers for stable diffusion.
 
 ## Requirements
 
